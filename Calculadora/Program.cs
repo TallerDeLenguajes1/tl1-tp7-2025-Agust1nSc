@@ -53,19 +53,18 @@ do
             calculadora.dividir(numero);
             break;
         case 5:
-            calculadora.limpiar(numero);
+            calculadora.limpiar(calculadora.dato);
             Console.WriteLine("Resultado limpiado.");
             break;
         case 6:
             Console.WriteLine("Saliendo del programa...");
-            break;
-        default:
-            Console.WriteLine("Opción no válida.");
             break;
     }
 
     Console.WriteLine("Numero resultante: " + calculadora.resultado);
 
 } while (opcion != 6);
+
+
 
 
