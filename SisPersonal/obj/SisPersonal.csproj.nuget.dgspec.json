@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\tp7\\tl1-tp7-2025-Agust1nSc\\SisPersonal\\SisPersonal.csproj": {}
+    "C:\\Users\\Agustin Saccone\\Desktop\\SisPersonal\\SisPersonal.csproj": {}
   },
   "projects": {
-    "C:\\tp7\\tl1-tp7-2025-Agust1nSc\\SisPersonal\\SisPersonal.csproj": {
+    "C:\\Users\\Agustin Saccone\\Desktop\\SisPersonal\\SisPersonal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\tp7\\tl1-tp7-2025-Agust1nSc\\SisPersonal\\SisPersonal.csproj",
+        "projectUniqueName": "C:\\Users\\Agustin Saccone\\Desktop\\SisPersonal\\SisPersonal.csproj",
         "projectName": "SisPersonal",
-        "projectPath": "C:\\tp7\\tl1-tp7-2025-Agust1nSc\\SisPersonal\\SisPersonal.csproj",
+        "projectPath": "C:\\Users\\Agustin Saccone\\Desktop\\SisPersonal\\SisPersonal.csproj",
         "packagesPath": "C:\\Users\\Agustin Saccone\\.nuget\\packages\\",
-        "outputPath": "C:\\tp7\\tl1-tp7-2025-Agust1nSc\\SisPersonal\\obj\\",
+        "outputPath": "C:\\Users\\Agustin Saccone\\Desktop\\SisPersonal\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Agustin Saccone\\AppData\\Roaming\\NuGet\\NuGet.Config"
